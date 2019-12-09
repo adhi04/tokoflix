@@ -1,3 +1,5 @@
+NB: This is a clone from hammockson project, just adding redux feature.
+
 ## Instruction
 
 1. Clone to your machine : git clone https://github.com/Hammockson/project-tokoflix.git
